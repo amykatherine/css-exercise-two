@@ -57,7 +57,7 @@ article {
 }
 
 figure {
-  padding-bottom: 30px;
+  padding-bottom: 40px;
 }
 
 h1 {
@@ -73,10 +73,14 @@ h3 {
 }
 
 .author {
-  padding-bottom: 30px;
+  padding-bottom: 40px;
 }
 
 .story-text {
   font-size: 100%;
   line-height: 135%;
+}
+
+p {
+  padding-bottom: 16px;
 }
